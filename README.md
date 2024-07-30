@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mhelvajian
-- 👀 I’m interested in ... creating Python code for automation, creating references to useful bits of code, transitioning from Excel to Python. 
-- 🌱 I’m currently learning ... Python and its power in manipulating output from SQL queries.
-- 💞️ I’m looking to collaborate on ... humanizing business and data analysis.
-- 📫 How to reach me ... linkedin.com/in/michael-helvajian
+Hi, I’m @mhelvajian. These projects showcase a bit of what I've been doing with Python to perform data analysis and transformation. 
+I tend to write scripts to do some very specific data manipulation to meet a business problem that would be prohibitively 
+time consuming to solve manually. 
+If you like what you're seeing I can be contacted through LinkedIn:
+Thanks for stopping by!
+
+Contact: linkedin.com/in/michael-helvajian
 
 <!---
 mhelvajian/mhelvajian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
